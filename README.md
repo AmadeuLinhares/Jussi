@@ -10,13 +10,8 @@ In the project directory, you can run:
 
 Antes de qualquer coisa precisaremos instalar as dependencias do projeto, fazendo isto, estaremos aptos a rodar o seridor localhost. Entre na pasta do projeto e rode o comnado YARN.
 
-Para subir o serviço que fornece a api, rode o comando yarn json-server db.json. Isso fará com que a api suba na porta 3000. Apos isso, vamos dar um yarn start no projeto, fazendo com que ele suba em outra porta na sua maquina. Ex: 3001. 
+Para subir o serviço que fornece a api, rode o comando yarn json-server db.json. Isso fará com que a api suba na porta [http://localhost:3000](http://localhost:3000). Apos isso, vamos dar um yarn start no projeto, fazendo com que ele suba em outra porta na sua maquina. Ex: [http://localhost:3001](http://localhost:3001). 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 ### `yarn start`
 
 Runs the app in the development mode.\
